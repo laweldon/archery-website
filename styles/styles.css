@@ -221,3 +221,12 @@ a.button:hover {
 footer a {
   color: var(--white);
 }
+
+.class-info {
+  margin-top: 12px;
+}
+
+hr {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
